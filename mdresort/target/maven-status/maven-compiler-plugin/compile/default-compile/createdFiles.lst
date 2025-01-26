@@ -1,0 +1,5 @@
+com\microservice\mdresort\MdresortApplication.class
+com\microservice\mdresort\controller\CustomerController.class
+com\microservice\mdresort\model\Customer.class
+com\microservice\mdresort\repository\CustomerRepository.class
+com\microservice\mdresort\service\CustomerService.class
