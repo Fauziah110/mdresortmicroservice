@@ -1,0 +1,7 @@
+com\mdresort\microservice\repository\CustomerRepository.class
+com\mdresort\microservice\controller\CustomerController.class
+com\mdresort\microservice\model\Customer.class
+com\mdresort\microservice\MicroserviceApplication.class
+com\mdresort\microservice\controller\LoginController.class
+com\mdresort\microservice\service\CustomerService.class
+com\mdresort\microservice\config\SecurityConfig.class
